@@ -10,7 +10,14 @@ table {
 }
 th {
     height: 70px;
+    text-align: center;
 }
 td {
     padding: 10px;
+    text-align: center;
+}
+.img {
+    width: 10%;
+    height: 10%;
+    padding: 0%;
 }
